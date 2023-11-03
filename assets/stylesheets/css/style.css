@@ -1926,6 +1926,12 @@ body p {
   border: 1px solid #444;
   margin-right: 10px;
 }
+.carousel-indicators .active {
+    width: 12px;
+    height: 12px;
+    margin: 0;
+    background-color: #fa4c29;
+}
 .album-list-wrap .album-card {
   width: 100%;
   -o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
@@ -2910,7 +2916,7 @@ body p {
   padding-bottom: 40px;
 }
 .blog-wrap .post-section .post-content .post-inner .post-media {
-  max-height: 300px;
+  max-height: 330px;
   overflow: hidden;
 }
 .blog-wrap .post-section .post-content .post-inner .post-media audio {
