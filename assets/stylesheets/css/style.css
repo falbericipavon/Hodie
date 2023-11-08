@@ -3397,6 +3397,14 @@ body p {
   filter: grayscale(1);
 }
 
+.desarrollo_web {
+  color: #ff5534;
+}
+
+.desarrollo_web:hover, .desarrollo_web:focus {
+  color: #ffff !important;
+}
+
 .art-grayscale {
   filter: grayscale(1);
 }
