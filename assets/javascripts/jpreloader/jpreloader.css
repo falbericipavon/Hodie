@@ -20,7 +20,7 @@
   display: inline-block;
   width: 80px;
   height: 80px;
-  border: 1px solid #fa4c29;
+  border: 1px solid #ff5534;
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
@@ -47,7 +47,7 @@
   transform: rotate(-45deg);
   font-size: 18px;
   text-transform: uppercase;
-  color: #fa4c29;
+  color: #ff5534;
 }
 #jSplash #loader #fadingBarsG {
   margin: 0 auto;
@@ -59,7 +59,7 @@
 #jSplash #loader .fadingBarsG {
   position: absolute;
   top: 0;
-  background-color: #fa4c29;
+  background-color: #ff5534;
   width: 15px;
   height: 15px;
   -moz-animation-name: bounce_fadingBarsG;
@@ -155,51 +155,51 @@
 @-moz-keyframes bounce_fadingBarsG {
   0% {
     -moz-transform: scale(1);
-    background-color: #fa4c29;
+    background-color: #ff5534;
   }
   100% {
     -moz-transform: scale(0.3);
-    background-color: #fa4c29;
+    background-color: #ff5534;
   }
 }
 @-webkit-keyframes bounce_fadingBarsG {
   0% {
     -webkit-transform: scale(1);
-    background-color: #fa4c29;
+    background-color: #ff5534;
   }
   100% {
     -webkit-transform: scale(0.3);
-    background-color: #fa4c29;
+    background-color: #ff5534;
   }
 }
 @-ms-keyframes bounce_fadingBarsG {
   0% {
     -ms-transform: scale(1);
-    background-color: #fa4c29;
+    background-color: #ff5534;
   }
   100% {
     -ms-transform: scale(0.3);
-    background-color: #fa4c29;
+    background-color: #ff5534;
   }
 }
 @-o-keyframes bounce_fadingBarsG {
   0% {
     -o-transform: scale(1);
-    background-color: #fa4c29;
+    background-color: #ff5534;
   }
   100% {
     -o-transform: scale(0.3);
-    background-color: #fa4c29;
+    background-color: #ff5534;
   }
 }
 @keyframes bounce_fadingBarsG {
   0% {
     transform: scale(1);
-    background-color: #fa4c29;
+    background-color: #ff5534;
   }
   100% {
     transform: scale(0.3);
-    background-color: #fa4c29;
+    background-color: #ff5534;
   }
 }
 #jpreOverlay #jpreLoader {

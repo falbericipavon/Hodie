@@ -1,6 +1,6 @@
 /* Color Schemes */
 .orange {
-  color: #fa4c29;
+  color: #ff5534;
 }
 @media (min-width: 1300px) {
   .about .discography .jp-audio .jp-controls-holder .jp-progress {
@@ -207,7 +207,7 @@
   }
   .navbar .navbar-nav .dropdown .dropdown-menu {
     background: rgba(0, 0, 0, 0.5);
-    border-bottom: 1px solid #fa4c29;
+    border-bottom: 1px solid #ff5534;
   }
   .navbar .navbar-nav .dropdown .dropdown-menu li a {
     padding: 10px;
